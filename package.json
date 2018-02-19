@@ -1,0 +1,15 @@
+{
+  "name": "activity--dribbble-navbar-master",
+  "version": "1.0.0",
+  "description": "You will write your first responsive media query component.",
+  "main": "index.js",
+  "scripts": {
+  	"build": "node-sass ./CSS/style.scss ./CSS/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
